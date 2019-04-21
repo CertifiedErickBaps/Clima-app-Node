@@ -14,8 +14,14 @@
 
 - Respaldos locales y remotos mediante
 
-- Instala los paquetes de node_modules para poder instalar el proyecto
+
+Instala los paquetes de node_modules para poder instalar el proyecto
 
 ```
 npm install
+```
+
+### Ejemplo
+```
+node app -d "New York"
 ```
